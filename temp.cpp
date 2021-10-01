@@ -5,6 +5,7 @@ enum class Color { red, green, orange };
 
 template <typename T> struct Traits;
 char s []="unknown";
+
 char f0 []="apple";
 char f1 []="orange";
 char f2 []="pear";
